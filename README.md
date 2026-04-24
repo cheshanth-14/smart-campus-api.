@@ -1,6 +1,8 @@
 # Smart-campus-api-cheshanth
 
 **Module:** 5COSC022W Client-Server Architectures  
+**Student Name:** Jagannithy Cheshanth  
+**Student ID:** w2120641  
 **University:** University of Westminster  
 **Stack:** Java 11 · JAX-RS (Jersey 2.41) · Grizzly embedded HTTP · Jackson JSON · Maven  
 **Last Updated:** 2026-04-24
