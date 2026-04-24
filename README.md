@@ -2,7 +2,8 @@
 
 **Module:** 5COSC022W Client-Server Architectures  
 **University:** University of Westminster  
-**Stack:** Java 11 · JAX-RS (Jersey 2.41) · Grizzly embedded HTTP · Jackson JSON · Maven
+**Stack:** Java 11 · JAX-RS (Jersey 2.41) · Grizzly embedded HTTP · Jackson JSON · Maven  
+**Last Updated:** 2026-04-24
 
 ---
 
@@ -50,8 +51,8 @@ The Smart Campus API follows **RESTful architectural principles** to manage a hi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/cheshanth-14/smart-campus-api.git
-cd smart-campus-api
+git clone https://github.com/cheshanth-14/smart-campus-api..git
+cd smart-campus-api.
 ```
 
 ### 2. Build the project
